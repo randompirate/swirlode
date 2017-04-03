@@ -12,5 +12,5 @@ Here's the second order ODE for x(t) and y(t):
 
 Looks like this
 
-![alt text](swirlode/swirl.png "Swirl")
+![Swirl](https://raw.githubusercontent.com/randompirate/swirlode/master/swirl.png "Swirl")
 
