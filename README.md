@@ -8,3 +8,9 @@ Here's the second order ODE for x(t) and y(t):
 
 - x" = -2 y y' t^3
 - y" = - y - .01*y'   # Damped oscillator
+
+
+Looks like this
+
+![alt text](swirlode/swirl.png "Swirl")
+
