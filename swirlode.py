@@ -13,6 +13,7 @@ def deriv_z(z,t):
             ydot, -y-.01*ydot]
 
 
+# Todo: scale time space
 t = np.linspace(0, 100, 5000)
 
 # plt.plot(t, x)
